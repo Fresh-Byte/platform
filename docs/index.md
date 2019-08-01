@@ -25,7 +25,3 @@ URL | Описание
 /api/applications/:appId/entities/:entityId|
 
 
-| First cell|Second cell|Third cell
-| First | Second | Third |
-
-First | Second | | Fourth |
