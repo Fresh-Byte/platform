@@ -1,5 +1,8 @@
 # Доментация Fresh-Byte Platform
+
 ## API
+
+
 URL | Описание
 ------------ | -------------
 /api/applications | 
