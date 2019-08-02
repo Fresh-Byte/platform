@@ -1,4 +1,4 @@
-# Доментация Fresh-Byte Platform
+# Документация Fresh-Byte Platform
 
 ## API
 ### Scheme API
